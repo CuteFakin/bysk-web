@@ -1,6 +1,6 @@
-# cf-h5
+# bysk-web
 ## 说明
-当前模板只提供移动端适配方案以及必要的vuecli优化
+当前模板只提供element方案以及必要的vuecli优化
 ## Project setup
 ```
 yarn install
