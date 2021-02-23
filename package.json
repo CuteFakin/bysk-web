@@ -1,8 +1,8 @@
 {
-  "name": "qwe",
+  "name": "{{name}}",
   "version": "0.1.0",
-  "author": "qwe",
-  "description": "qwe",
+  "author": "{{ author }}",
+  "description": "{{ description }}",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
